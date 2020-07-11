@@ -17,6 +17,6 @@ int fibonacci(int n)
 
 int main()
 {
-    cout << fibonacci(10) << endl;  // 55, 10th Fibonacci number
+    cout << fibonacci(20) << endl; // 55, 10th Fibonacci number
     return 0;
 }
