@@ -1,5 +1,7 @@
 
-#pragma once
+#ifndef NQueensProblem_h
+#define NQueensProblem_h
+
 #include <vector>
 using std::vector;
 
@@ -18,3 +20,5 @@ private:
 
     void printQueens() const;
 };
+
+#endif
