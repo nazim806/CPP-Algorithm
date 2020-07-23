@@ -9,9 +9,9 @@ Recursion is a method (procedure) where the solution to a problem depends on sol
 **Head recursion:** If the recursive call occurs at the beginning of a function then it is called a head recursion. The method saves the state before jumping into the next recursive call which means that head recursion needs more memory because we have to store the states of the actual function calls.
 
 
-Factorial
+**Factorial**
 
-Fibonacci numbers
+**Fibonacci numbers**
 
 **Towers of Hanoi**
  It consists of three rods and number of discs of different sizes which can slide onto any rod. The puzzle starts with the discs in a neat stack in aacending order of size on one rod, the smallest at the rod, thus making a conical shape. The minimum number of moves to solve a Tower of Hanoi problem is 2^n - 1 or O(2^n) exponential time complexity.
